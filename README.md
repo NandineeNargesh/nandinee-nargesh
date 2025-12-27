@@ -49,12 +49,7 @@
 
 ---
 
-## Education
-**Jabalpur Engineering College**  
-B.Tech in Information Technology (2022–2026)  
-CGPA: 6.88
 
----
 
 ## Contact
 - 📧 Email: nandineenargesh14@gmail.com  
